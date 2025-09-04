@@ -23,7 +23,7 @@ git checkout -b suryadeep-branch
 ## 📝 Step 3: Created My File
 
 ```bash
-echo "Hello, I am Suryadeep. This is my contribution!" > suryadeep.md
+echo "Hello, I am Suryadeep.This is my contribution!" > suryadeep.md
 ```
 
 ---
